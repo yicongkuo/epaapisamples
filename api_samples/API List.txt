@@ -1,0 +1,6 @@
+API Sample 1-1 讀取時間區段內感測器的數據
+API Sample 1-2 讀取指定範圍內的感測器數據
+API Sample 2-1 讀取時間區段內，汙染物指數超標範圍數據
+API Sample 2-2 讀取指定工業區內，汙染物指數超標的範圍
+API Sample 5 查詢指定點位PM 2.5濃度值
+API Sample 6 查詢指定位置的冷熱區特徵
